@@ -8,7 +8,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
 
-**Link of Work:** [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%201%20-%20PandasBasics.ipynb)
+**Link of Work:** [Commit](https://marbramen.github.io/myTestPage01/Day-1-PandasBasics.html)
 
 ## Day 02 : August 02 , 2018
 
@@ -17,8 +17,8 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Thoughts** : It's very useful to learn math for machine learning.
 
 **Link of Work:**   
-- [Commit - Probability 01](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2002%20-%20Math%20lesson%201.ipynb)
-- [Commit - Probability 02](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2002%20-%20Math%20lesson%202.ipynb)
+- [Commit - Probability 01](https://marbramen.github.io/myTestPage01/Day-02-MathLesson1.html)
+- [Commit - Probability 02](https://marbramen.github.io/myTestPage01/Day-02-MathLesson2.html)
 
 
 ## Day 03 : August 03 , 2018
